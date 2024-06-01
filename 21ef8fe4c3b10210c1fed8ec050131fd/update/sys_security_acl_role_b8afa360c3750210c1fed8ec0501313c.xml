@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2024-04-23 11:01:31</sys_created_on>
+        <sys_id>b8afa360c3750210c1fed8ec0501313c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.1374394.suggestion-box-workspace.*.x_1374394_sugges_0.admin</sys_name>
+        <sys_package display_value="Suggestion Box" source="x_1374394_sugges_0">21ef8fe4c3b10210c1fed8ec050131fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">21ef8fe4c3b10210c1fed8ec050131fd</sys_scope>
+        <sys_security_acl display_value="x.1374394.suggestion-box-workspace.*">ab9f236075750210d4be708ebcf80e01</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b8afa360c3750210c1fed8ec0501313c</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2024-04-23 11:01:31</sys_updated_on>
+        <sys_user_role display_value="x_1374394_sugges_0.admin" name="x_1374394_sugges_0.admin">f5efcfe4c3b10210c1fed8ec0501317a</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

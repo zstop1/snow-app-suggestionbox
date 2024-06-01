@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <search_context_config display_value="Suggestion Box Workspace - Workspace Search">a79f2360b4750210de73b46e48eb1f02</search_context_config>
+        <source display_value="Suggestion Box Workspace - x_1374394_collec_0_sugg">74afa360c3750210c1fed8ec0501314f</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2024-04-23 11:01:31</sys_created_on>
+        <sys_id>8dafa360c3750210c1fed8ec05013159</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Suggestion Box" source="x_1374394_sugges_0">21ef8fe4c3b10210c1fed8ec050131fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">21ef8fe4c3b10210c1fed8ec050131fd</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_8dafa360c3750210c1fed8ec05013159</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2024-04-23 11:01:31</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

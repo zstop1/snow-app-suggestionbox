@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="Suggestion Box Workspace">eb9f236071750210184d2881d33abd03</dashboard>
+        <group/>
+        <owner>false</owner>
+        <role display_value="x_1374394_sugges_0.user" name="x_1374394_sugges_0.user">b1efcfe4c3b10210c1fed8ec0501317e</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2024-04-23 11:01:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3caf6360c3750210c1fed8ec050131fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>eb9f236071750210184d2881d33abd03</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Suggestion Box" source="x_1374394_sugges_0">21ef8fe4c3b10210c1fed8ec050131fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">21ef8fe4c3b10210c1fed8ec050131fd</sys_scope>
+        <sys_update_name>par_dashboard_permission_3caf6360c3750210c1fed8ec050131fd</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2024-04-23 11:01:30</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>
