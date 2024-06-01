@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Suggestion Box Workspace App Config">6b9f23600c7502108fd4521fea268e0b</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table</fields>
+        <icon/>
+        <name>Simple List</name>
+        <optional_parameters>listTitle,query,disableInlineEditing</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>simplelist</route_type>
+        <screen_type display_value="Simple List">e39fef20a77502109498b054345f68ff</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2024-04-23 11:01:27</sys_created_on>
+        <sys_id>239fef206475021045227d570d8195ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Simple List</sys_name>
+        <sys_package display_value="Suggestion Box" source="x_1374394_sugges_0">21ef8fe4c3b10210c1fed8ec050131fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">21ef8fe4c3b10210c1fed8ec050131fd</sys_scope>
+        <sys_update_name>sys_ux_app_route_239fef206475021045227d570d8195ff</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2024-04-23 11:01:27</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=239fef206475021045227d570d8195ff"/>
+</record_update>

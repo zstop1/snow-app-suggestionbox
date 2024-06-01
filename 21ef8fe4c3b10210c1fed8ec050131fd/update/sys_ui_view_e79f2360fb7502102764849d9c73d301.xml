@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>workspace-suggestion-box-workspace-0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2024-04-23 11:01:28</sys_created_on>
+        <sys_id>e79f2360fb7502102764849d9c73d301</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workspace Suggestion Box Workspace 0</sys_name>
+        <sys_package display_value="Suggestion Box" source="x_1374394_sugges_0">21ef8fe4c3b10210c1fed8ec050131fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">21ef8fe4c3b10210c1fed8ec050131fd</sys_scope>
+        <sys_update_name>sys_ui_view_e79f2360fb7502102764849d9c73d301</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2024-04-23 11:01:28</sys_updated_on>
+        <title>Workspace Suggestion Box Workspace 0</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

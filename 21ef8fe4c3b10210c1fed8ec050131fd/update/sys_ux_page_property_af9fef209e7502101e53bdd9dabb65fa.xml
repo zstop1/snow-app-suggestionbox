@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>User Preferences</description>
+        <name>chrome_preferences</name>
+        <page display_value="Suggestion Box Workspace">ab9f2360c0750210d14d84a1c82fc40a</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2024-04-23 11:01:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>af9fef209e7502101e53bdd9dabb65fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_preferences</sys_name>
+        <sys_package display_value="Suggestion Box" source="x_1374394_sugges_0">21ef8fe4c3b10210c1fed8ec050131fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">21ef8fe4c3b10210c1fed8ec050131fd</sys_scope>
+        <sys_update_name>sys_ux_page_property_af9fef209e7502101e53bdd9dabb65fa</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2024-04-23 11:01:28</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1374394_sugges_0.ab9f2360c0750210d14d84a1c82fc40a.root.chrome_preferences</unique_name>
+        <value>[&#13;
+  "workspace.notifications.inbox.desktop",&#13;
+  "workspace.notifications.inbox.audio",&#13;
+  "workspace.notifications.chat.desktop",&#13;
+  "workspace.notifications.chat.audio",&#13;
+  "workspace.showRibbon",&#13;
+  "workspace.showAgentAssist",&#13;
+  "workspace.wrapListText",&#13;
+  "workspace.notifications.showPopups",&#13;
+  "workspace.notifications.showBadgeCount",&#13;
+  "rowcount",&#13;
+  "ts.match",&#13;
+  "glide.ui.accessibility",&#13;
+  "glide.ui.report.accessibility.patterns",&#13;
+  "glide.ui.date_format",&#13;
+  "list_export.deliveryType",&#13;
+  "list_export.orientationType",&#13;
+  "list_export.fileType",&#13;
+  "list_export.email"&#13;
+]</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=af9fef209e7502101e53bdd9dabb65fa"/>
+</record_update>

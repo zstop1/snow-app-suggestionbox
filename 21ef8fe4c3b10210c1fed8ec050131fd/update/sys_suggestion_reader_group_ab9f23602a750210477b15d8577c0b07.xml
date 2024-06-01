@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id/>
+        <limit>5</limit>
+        <order>300</order>
+        <section_header/>
+        <suggestion_type>Suggested Query Reader Group for Starter Workspace - Workspace Search</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2024-04-23 11:01:27</sys_created_on>
+        <sys_id>ab9f23602a750210477b15d8577c0b07</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Suggested Query Reader Group for Starter Workspace - Workspace Search</sys_name>
+        <sys_package display_value="Suggestion Box" source="x_1374394_sugges_0">21ef8fe4c3b10210c1fed8ec050131fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">21ef8fe4c3b10210c1fed8ec050131fd</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_ab9f23602a750210477b15d8577c0b07</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2024-04-23 11:01:27</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

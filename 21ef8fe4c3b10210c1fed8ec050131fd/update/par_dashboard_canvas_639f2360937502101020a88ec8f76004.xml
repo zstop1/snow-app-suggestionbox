@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas">
+    <par_dashboard_canvas action="INSERT_OR_UPDATE">
+        <dashboard display_value="Suggestion Box Workspace">eb9f236071750210184d2881d33abd03</dashboard>
+        <dashboard_tab/>
+        <layout>[]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2024-04-23 11:01:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>639f2360937502101020a88ec8f76004</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Suggestion Box" source="x_1374394_sugges_0">21ef8fe4c3b10210c1fed8ec050131fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Suggestion Box">21ef8fe4c3b10210c1fed8ec050131fd</sys_scope>
+        <sys_update_name>par_dashboard_canvas_639f2360937502101020a88ec8f76004</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2024-04-23 11:01:26</sys_updated_on>
+    </par_dashboard_canvas>
+</record_update>
